@@ -1,0 +1,2 @@
+# secureNginxWP
+Secure Nginx WP
